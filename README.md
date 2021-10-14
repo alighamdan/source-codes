@@ -1,4 +1,6 @@
 # Discord.js source codes
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falighamdan%2Fsource-codes.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falighamdan%2Fsource-codes?ref=badge_shield)
+
 
 This Repo Holds 4 Sources<br>
 1- Discord.js v12 Normal => .js<br> 
@@ -20,3 +22,7 @@ Repo:
 
 
 if There Any Error Just Issues
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falighamdan%2Fsource-codes.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falighamdan%2Fsource-codes?ref=badge_large)
